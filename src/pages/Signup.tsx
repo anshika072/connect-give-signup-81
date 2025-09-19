@@ -31,7 +31,7 @@ const Signup = () => {
           <p className="text-xl text-white/90 max-w-md mb-12">
             Connect with others, share resources, and make a difference in your community.
           </p>
-          <div className="flex items-center gap-8 text-white/80">
+          <div className="flex items-center justify-center gap-8 text-white/80">
             <div className="text-center">
               <div className="text-2xl font-bold text-white">10,000+</div>
               <div className="text-sm">Members</div>
